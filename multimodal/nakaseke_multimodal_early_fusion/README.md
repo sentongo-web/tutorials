@@ -1,5 +1,7 @@
 # Multimodal Early-Fusion Network: Radiographs + Clinical Tabular Data
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/tutorials/blob/main/multimodal/nakaseke_multimodal_early_fusion/multimodal_early_fusion_tutorial.ipynb)
+
 This tutorial demonstrates an **early-fusion** architecture that combines a 2D medical image stream
 with a low-dimensional clinical tabular stream in a single MONAI dictionary-based pipeline, using
 [`multimodal_early_fusion_tutorial.ipynb`](./multimodal_early_fusion_tutorial.ipynb).
